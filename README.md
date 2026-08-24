@@ -1,2 +1,2 @@
 # sistema-cadastro-python
-Projeto desenvolvido durante um curso de Python para praticar os conceitos apresentados nas aulas.
+Projeto simples de cadastro desenvolvido em Python durante meus estudos.
